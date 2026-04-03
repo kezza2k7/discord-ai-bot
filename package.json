@@ -2,9 +2,9 @@
   "name": "miku_hatsune_discord_bot",
   "version": "1.0.0",
   "description": "A Discord bot featuring Hatsune Miku persona with Ollama AI and Google Search integration.",
-  "main": "discord_bot.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node discord_bot.js"
+    "start": "node bot.js"
   },
   "keywords": [
     "discord",

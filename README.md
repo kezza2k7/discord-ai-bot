@@ -27,7 +27,7 @@ Navigate to the bot's folder and run `npm install`, this will automatically begi
 
 ### Update Config
 
-1. Locate the "base-config.json" file and rename it to "config.json".
+1. Locate the "config-base.json" file and rename it to "config.json".
 2. Open your "config.json" file with a text editor.
 3. Remove the first line (the one that begins in //)
 4. Fill in the information. (client_id is application id in general info)
